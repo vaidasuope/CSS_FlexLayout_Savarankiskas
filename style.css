@@ -1,0 +1,66 @@
+header {
+    align-items: center;
+    background-color: #ffcce6;
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+    height: 10%;
+}
+.content {
+    display: flex;
+    width:100%;
+}
+.desine {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 800px;
+}
+.kaire {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 800px
+}
+.nav {
+    align-items: center;
+    background-color: #cc6699;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-items: center;
+    margin: 2px;
+}
+.meniu {
+    align-items: center;
+    background-color: cornsilk;
+    color: black;
+    display: flex;
+    font-size: 25px;
+    height: 40px;
+    justify-content: center;
+    margin: auto;
+    text-decoration: none;
+    width: 60%;
+}
+.ads {
+    background-color: #993366;
+    height: 50%;
+    margin: 4px 2px;
+    padding: 3px;
+}
+.article {
+    background-color: #ff66ff;
+    height: 90%;
+    margin: 2px;
+    padding: 10px;
+}
+.footer {
+    align-items: center;
+    background-color: #cc0069;
+    font-weight: bold;
+    height: 10%;
+    margin: 4px 2px;
+    text-align: left;
+}
+
